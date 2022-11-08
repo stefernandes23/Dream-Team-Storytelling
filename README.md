@@ -69,7 +69,7 @@ Softwares utilizados:
   <td align="center"><br>
         <a href="">
             <img src="https://i.imgur.com/AArv5Cu.png" width="150px;" alt="Stephanie Fernandes" style="max-width:100%;">
-            <br><sub><b>[João Rosa](https://github.com/joaorosa2)</b></sub><br>
+            <br><sub><b>Stephanie Fernandes</b></sub><br>
         <p align="center">
             </a>    
             <a href="https://github.com/stefernandes23">

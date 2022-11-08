@@ -19,13 +19,6 @@ Softwares utilizados:
 
 
 ## **Equipe**
-- [Amanda Alves](https://github.com/AmandaAlR)
-- [Érick Vieira](https://github.com/XxMeckxX)
-- [João Rosa](https://github.com/joaorosa2)
-- [Marcus Vinicius]
-- [Stephanie Fernandes](https://github.com/stefernandes23)
-
-
 <table align="center">
   
   <td align="center"><br>

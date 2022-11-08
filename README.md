@@ -1,10 +1,10 @@
-# Projeto Final do Curso de Analista de Dados Jr - Resilia
+# Projeto Final do Curso de Analista de Dados Jr. - Resilia
 
 ## **O projeto**
-  Após 6 meses de aprendizado no curso de analista de dados da resilia, desenvolvendo conhecimentos hard e soft skills, iremos desenvolver um projeto no qual o objetivo é a contratação da equipe para desenvolver um grande projeto, sendo assim, coletamos, limpamos, tratamos os dados que foram gerados ao longo do curso, através deles, plotamos gráficos com informações relevantes sobre o desenvolvimento da equipe utilizando as ferramentas Tableau e Power BI.
+  Após 6 meses de aprendizado no curso de Análise de Dados da Resilia, desenvolvendo conhecimentos hard e soft skills, iremos desenvolver um projeto, no qual o objetivo é a contratação da equipe para desenvolver um grande projeto. Sendo assim, coletamos, limpamos, tratamos os dados que foram gerados ao longo do curso e , através deles, plotamos gráficos com informações relevantes sobre o desenvolvimento da equipe utilizando as ferramentas Tableau e Power BI.
 
 ## **Objetivo**
-  Coletar, limpar tratar e transformar dados na prática, com objetivo de plotar em graficos informações que auxiliem na análise do desenvolvimento da equipe durante o curso de formação de Analista de Dados Jr, e também criar um storytelling diante de tudo o que foi levantado utilizando as ferramentas Tableau ou Power BI.
+  Coletar, limpar tratar e transformar dados na prática, com objetivo de plotar em graficos informações que auxiliem na análise do desenvolvimento da equipe durante o curso de formação de Analista de Dados Jr., e também criar um storytelling diante de tudo o que foi levantado utilizando as ferramentas Tableau ou Power BI.
 
 ## **Softwares**
 Softwares utilizados:

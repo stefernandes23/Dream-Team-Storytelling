@@ -25,6 +25,7 @@ Softwares utilizados:
 - [Marcus Vinicius]
 - [Stephanie Fernandes](https://github.com/stefernandes23)
 
+
 <table align="center">
   
   <td align="center"><br>
@@ -74,19 +75,17 @@ Softwares utilizados:
     </td>
   <td align="center"><br>
         <a href="">
-            <img src="https://i.imgur.com/c4HKS4y.png" width="150px;" alt="Marcus Vinicius" style="max-width:100%;">
-            <br><sub><b>Marcus Vinicius</b></sub><br>
+            <img src="https://i.imgur.com/AArv5Cu.png" width="150px;" alt="Stephanie Fernandes" style="max-width:100%;">
+            <br><sub><b>[João Rosa](https://github.com/joaorosa2)</b></sub><br>
         <p align="center">
             </a>    
-            <a href="https://github.com/marcus-vn-santos">
-                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcus-vn-santos">
+            <a href="https://github.com/stefernandes23">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/stefernandes23">
             </a>
        </p>
 </td>
 </td>
 </table>
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorosab/)
 
 
 ## **Visualização dos Dados**

@@ -22,7 +22,7 @@
 | <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" alt="TABLEAU-removebg-preview" border="0"></a></p> |
 | <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/cx92J01/trello-removebg-preview.png" alt="trello-removebg-preview" border="0"></a></p> |
 
-## **Equipe**
+## **Equipe:frowning_person::frowning_woman::frowning_person::frowning_woman::frowning_person:**
 <table align="center">
   
   <td align="center"><br>

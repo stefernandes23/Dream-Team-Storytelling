@@ -11,16 +11,16 @@
 
 
 ## **Softwares :cd: :computer:**
-Softwares utilizados:
 
-![image](https://user-images.githubusercontent.com/106816863/200646020-6547b4c1-579b-4f28-9bfb-c05d35142b84.png)
-![image](https://user-images.githubusercontent.com/106816863/200651143-b08f4c9f-a505-410a-985f-a57e569089c2.png)
-![image](https://user-images.githubusercontent.com/106816863/200654287-66d7e8ab-e486-4860-88d9-9527d54c3e1b.png)
-![image](https://user-images.githubusercontent.com/106816863/200651984-b905e805-7507-4348-985b-a3d40ea38aff.png)
-![image](https://user-images.githubusercontent.com/106816863/200652095-74b26ced-0349-496e-98ce-ca6a8e795915.png)
-![image](https://user-images.githubusercontent.com/106816863/200654363-97ecfec8-c4b0-4f64-8993-e6fb31be92d0.png)
-![image](https://user-images.githubusercontent.com/106816863/200654424-40a5a077-92bb-4acd-80b7-9335de826ddf.png)
-
+|  SOFTWARES UTILIZADOS |      
+|--- |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/w7DbsWz/github-removebg-preview.png" alt="github-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" alt="canva-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" alt="discord-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/17BpNfT/resilia-removebg-preview.png" alt="resilia-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" alt="sheets-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" alt="TABLEAU-removebg-preview" border="0"></a></p> |
+| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/cx92J01/trello-removebg-preview.png" alt="trello-removebg-preview" border="0"></a></p> |
 
 ## **Equipe**
 <table align="center">

@@ -80,12 +80,13 @@ Softwares utilizados:
                    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/stefernandes23">
             </a>
        </p>
+       
+       
+       
 </td>
 </td>
 </table>
 
 
 ## **Visualização dos Dados**
-
-
 

@@ -13,52 +13,50 @@
 ## **Softwares Utilizados :cd: :computer:**
 
 
-<table align="center">
+<table style="border: 1px solid black"  align="center">
 
-  <td align="center"><br>
+  <td style="background-color:white;" align="center"><br>
         <a href="">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;"  />
             <br><sub><b></b></sub><br>
         <p align="center">
             </a>
 </td>
-  <td align="center"><br>
+  <td style = "background-color:white;" align="center"><br>
         <a href="">
             <img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" width="100px;" alt="Canvas" style="max-width:100%;">
             <br><sub><b></b></sub><br>
         <p align="center">
        </p>
 </td>
-<td align="center"><br>
+<td style = "background-color:white;" align="center"><br>
         <a href="">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100px;" alt="Github" style="max-width:100%;">
             <br><sub><b></b></sub><br>
         <p align="center">
        </p> 
  </td>
-  <td align="center"><br>
+  <td style = "background-color:white;" align="center"><br>
         <a href="">
             <img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" width="100px;" alt="Tableau" style="max-width:100%;">
             <br><sub><b></b></sub><br>
         <p align="center">
        </p>
     </td>
-  <td align="center"><br>
+  <td style = "background-color:white;" align="center"><br>
         <a href="">
             <img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" width="100px;" alt="sheets" style="max-width:100%;">
             <br><sub><b></b></sub><br>
         <p align="center">
        </p>
     </td>
-</table>
-
-<table align="center">
-  <td align="center"><br>
+    <td style = "background-color:white;" align="center"><br>
         <a href="">
             <img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
             <br><sub><b></b></sub><br>
         <p align="center">
             </a>
+    </td>
 </table>
 
 ## **Equipe:frowning_person::frowning_woman::frowning_person::frowning_woman::frowning_person:**
@@ -136,3 +134,8 @@
 
 Segue nosso link: :link::
  [Canva](https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
+
+
+
+
+

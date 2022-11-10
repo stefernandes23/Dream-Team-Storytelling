@@ -94,4 +94,5 @@
 ## **Visite a nossa apresentação 	:art::desktop_computer::movie_camera:**
 
 ![banner](https://media.giphy.com/media/MASs6x7KKEIXvlKJKN/giphy.gif)
-https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+
+Segue link :link::https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu

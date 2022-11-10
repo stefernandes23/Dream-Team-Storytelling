@@ -10,18 +10,56 @@
    Storytelling é um termo em inglês. "Story" significa história e "telling", contar. Mais que uma mera narrativa, Storytelling é a arte de contar histórias usando técnicas inspiradas em roteiristas e escritores para transmitir uma mensagem de forma inesquecível. É a arte de contar, desenvolver e adaptar histórias utilizando elementos específicos — personagem, ambiente, conflito e uma mensagem — em eventos com começo, meio e fim, para transmitir uma mensagem de forma inesquecível ao conectar-se com o leitor no nível emocional.
 
 
-## **Softwares :cd: :computer:**
+## **Softwares Utilizados :cd: :computer:**
 
-|  SOFTWARES UTILIZADOS |      
-|--- |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/w7DbsWz/github-removebg-preview.png" alt="github-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" alt="canva-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" alt="discord-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/17BpNfT/resilia-removebg-preview.png" alt="resilia-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" alt="sheets-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" alt="TABLEAU-removebg-preview" border="0"></a></p> |
-| <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/cx92J01/trello-removebg-preview.png" alt="trello-removebg-preview" border="0"></a></p> |
 
+<table align="center">
+
+  <td align="center"><br>
+        <a href="">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
+            <br><sub><b></b></sub><br>
+        <p align="center">
+            </a>
+</td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" width="100px;" alt="Canvas" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+</td>
+<td align="center"><br>
+        <a href="">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100px;" alt="Github" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p> 
+ </td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" width="100px;" alt="Tableau" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+    </td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" width="100px;" alt="sheets" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+    </td>
+</table>
+
+<table align="center">
+  <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
+            <br><sub><b></b></sub><br>
+        <p align="center">
+            </a>
+</table>
 ## **Equipe:frowning_person::frowning_woman::frowning_person::frowning_woman::frowning_person:**
 <table align="center">
   
@@ -49,7 +87,7 @@
 </td>
 <td align="center"><br>
         <a href="">
-            <img src="https://i.imgur.com/5LmfbuP.png" width="150px;" align="center"; alt="Natascha Weber" style="max-width:100%;">
+            <img src="https://i.imgur.com/5LmfbuP.png" width="150px;" align="center"; alt="João Vitor Rosa" style="max-width:100%;">
             <br><sub><b>João Vitor Rosa</b></sub><br>
         <p align="center">
             </a>    
@@ -95,4 +133,5 @@
 
 ![banner](https://media.giphy.com/media/MASs6x7KKEIXvlKJKN/giphy.gif)
 
-Segue link :link::https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+Segue nosso link: :link::
+ [Canva](https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 

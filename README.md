@@ -1,5 +1,5 @@
 ![resilia](https://user-images.githubusercontent.com/77132612/201170243-8c384696-19aa-4e1a-9e67-3d607d9cd418.png)
-# Projeto Final do Curso de Analista de Dados Jr.
+# Projeto Final do Curso de Anélise de Dados 
 
 ## **O projeto :open_book:	:movie_camera:**
   Após 6 meses de aprendizado no curso de Análise de Dados da Resilia, desenvolvendo conhecimentos hard e soft skills, estamos desenvolvendo um projeto, no qual o objetivo é a contratação da equipe para desenvolver um grande projeto. Sendo assim, coletamos, limpamos, tratamos os dados que foram gerados ao longo do curso e, através deles, plotamos gráficos com informações relevantes sobre o desenvolvimento da equipe utilizando as ferramentas Tableau e Power BI.

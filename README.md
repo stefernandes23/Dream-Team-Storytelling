@@ -1,3 +1,4 @@
+![resilia](https://user-images.githubusercontent.com/77132612/201170243-8c384696-19aa-4e1a-9e67-3d607d9cd418.png)
 # Projeto Final do Curso de Analista de Dados Jr. - Resilia
 
 ## **O projeto :open_book:	:movie_camera:**

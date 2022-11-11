@@ -118,7 +118,7 @@
     </td>
 </table>
 
-## Base de dados
+## Base de dados :game_die:
 
 <table align="center">
 

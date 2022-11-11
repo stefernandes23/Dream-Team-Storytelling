@@ -70,7 +70,7 @@
        </p>       
 </table>
 
-## **Softwares Utilizados :cd: :computer:**
+## **Softwares utilizados :cd: :computer:**
 
 <table align="center">
 
@@ -153,7 +153,7 @@
     </td>
 </table>
 
-## **Visualização dos Dados 	:game_die::chart_with_downwards_trend:**
+## **Visualização dos dados 	:game_die::chart_with_downwards_trend:**
 [Tableau](https://public.tableau.com/views/Projeto_16677775291320/Painel1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 <div class='tableauPlaceholder' id='viz1668083964162' style='position: relative'><noscript><a href='#'><img alt='Painel 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Projeto_16677775291320&#47;Painel1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Projeto_16677775291320&#47;Painel1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Projeto_16677775291320&#47;Painel1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='pt-BR' /></object></div>               
 

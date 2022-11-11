@@ -118,6 +118,41 @@
     </td>
 </table>
 
+## Base de dados
+
+<table align="center">
+
+  <td  align="center"><br>
+        <a href="">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100px;" alt="Linkedin" style="max-width:100%;" style="max-width:100%;"  />
+            <br><sub><b></b></sub><br>
+        <p align="center">
+            </a>
+</td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://www.resilia.com.br/wp-content/themes/resiliaTheme/assets/images/logo.png" width="100px;" alt="Resilia" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+</td>
+<td  align="center"><br>
+        <a href="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJ37g_YFjz3M4ooSxJKE4YRQYjZzEVHqoFA&usqp=CAU.png" width="100px;" alt="Codewars" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p> 
+ </td>
+<td  align="center"><br>
+        <a href="">
+            <img src="https://cdn.discordapp.com/attachments/982059488276283472/1040309245767331840/unknown.png" width="100px;" alt="Github" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p> 
+            </a>
+    </td>
+</table>
+
 ## **Visualização dos Dados 	:game_die::chart_with_downwards_trend:**
 [Tableau](https://public.tableau.com/views/Projeto_16677775291320/Painel1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 <div class='tableauPlaceholder' id='viz1668083964162' style='position: relative'><noscript><a href='#'><img alt='Painel 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Projeto_16677775291320&#47;Painel1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Projeto_16677775291320&#47;Painel1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Projeto_16677775291320&#47;Painel1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='pt-BR' /></object></div>               

@@ -10,57 +10,6 @@
  ## **Storytelling - o que é? 	:teacher::mag_right:**
    Storytelling é um termo em inglês. "Story" significa história e "telling", contar. Mais que uma mera narrativa, Storytelling é a arte de contar histórias usando técnicas inspiradas em roteiristas e escritores para transmitir uma mensagem de forma inesquecível. É a arte de contar, desenvolver e adaptar histórias utilizando elementos específicos — personagem, ambiente, conflito e uma mensagem — em eventos com começo, meio e fim, para transmitir uma mensagem de forma inesquecível ao conectar-se com o leitor no nível emocional.
 
-
-## **Softwares Utilizados :cd: :computer:**
-
-
-<table align="center">
-
-  <td  align="center"><br>
-        <a href="">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;"  />
-            <br><sub><b></b></sub><br>
-        <p align="center">
-            </a>
-</td>
-  <td align="center"><br>
-        <a href="">
-            <img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" width="100px;" alt="Canvas" style="max-width:100%;">
-            <br><sub><b></b></sub><br>
-        <p align="center">
-       </p>
-</td>
-<td  align="center"><br>
-        <a href="">
-            <img src="https://cdn.discordapp.com/attachments/982059488276283472/1040309245767331840/unknown.png" width="100px;" alt="Github" style="max-width:100%;">
-            <br><sub><b></b></sub><br>
-        <p align="center">
-       </p> 
- </td>
-  <td  align="center"><br>
-        <a href="">
-            <img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" width="100px;" alt="Tableau" style="max-width:100%;">
-            <br><sub><b></b></sub><br>
-        <p align="center">
-       </p>
-    </td>
-  <td  align="center"><br>
-        <a href="">
-            <img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" width="100px;" alt="sheets" style="max-width:100%;">
-            <br><sub><b></b></sub><br>
-        <p align="center">
-       </p>
-    </td>
-    <td align="center"><br>
-        <a href="">
-            <img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
-            <br><sub><b></b></sub><br>
-        <p align="center">
-            </a>
-    </td>
-</table>
-
-
 ## **A nossa equipe:frowning_person::yellow_heart:**
 <table align="center">
   
@@ -119,6 +68,54 @@
                    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/stefernandes23">
             </a>
        </p>       
+</table>
+
+## **Softwares Utilizados :cd: :computer:**
+
+<table align="center">
+
+  <td  align="center"><br>
+        <a href="">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;"  />
+            <br><sub><b></b></sub><br>
+        <p align="center">
+            </a>
+</td>
+  <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/pxjbzyh/canva-removebg-preview.png" width="100px;" alt="Canvas" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+</td>
+<td  align="center"><br>
+        <a href="">
+            <img src="https://cdn.discordapp.com/attachments/982059488276283472/1040309245767331840/unknown.png" width="100px;" alt="Github" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p> 
+ </td>
+  <td  align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/crCrKV6/TABLEAU-removebg-preview.png" width="100px;" alt="Tableau" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+    </td>
+  <td  align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/RpSzy14/sheets-removebg-preview.png" width="100px;" alt="sheets" style="max-width:100%;">
+            <br><sub><b></b></sub><br>
+        <p align="center">
+       </p>
+    </td>
+    <td align="center"><br>
+        <a href="">
+            <img src="https://i.ibb.co/Ky4r6Kp/discord-removebg-preview.png" width="100px;" alt="Trello" style="max-width:100%;" style="max-width:100%;" />
+            <br><sub><b></b></sub><br>
+        <p align="center">
+            </a>
+    </td>
 </table>
 
 ## **Visualização dos Dados 	:game_die::chart_with_downwards_trend:**

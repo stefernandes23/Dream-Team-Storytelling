@@ -166,6 +166,7 @@
  [Canva](https://www.canva.com/design/DAFO4J8xzTs/y1UIW9NqJAzympSYe5q3Sg/view?utm_content=DAFO4J8xzTs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
  
 
-![banner](https://media.giphy.com/media/Qh84iS3MD010NiFlgH/giphy.gif)
+
+![banner](https://media.giphy.com/media/QhvttKh4CKa3pxFbWf/giphy.gif)
 
 
